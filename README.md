@@ -1,4 +1,4 @@
-# Desafio JAVA JSF (Para aprendizado)
+# Desafio JAVA SPRING (Para aprendizado)
 
 O propósito desse teste e avalizar o candidato a desenvolvedor a partir de um case proposto, aonde
 o mesmo deverá entregar em um prazo de 3 dias o máximo possível dos requisitos solicitados. O
